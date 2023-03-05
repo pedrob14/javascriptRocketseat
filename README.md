@@ -1,1 +1,2 @@
-"# javascript1"  
+
+Curso de JavaScript da plataforma Rocketseat
